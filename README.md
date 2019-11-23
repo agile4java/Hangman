@@ -4,10 +4,10 @@
 
 * **Date: 10 / 17 / 2017**
 
-* **I. Assignment Name: Hangman**
-
-II. Learning Objectives: (here is an example)
-=============================================
+**I. Assignment Name: Hangman**
+-------------------------------
+**II. Learning Objectives: (here is an example)**
+-------------------------------------------------
 
 -   Draw gallows and stick person on canvas when player makes a wrong guess
 
@@ -21,8 +21,8 @@ II. Learning Objectives: (here is an example)
 
 -   Player may select from five categories of words
 
->   III. **Abstract** –
-
+**III. Abstract** 
+-----------------
 -   Game screen consists of a "flex" design. Design includes:
 
     -   A title "header"
