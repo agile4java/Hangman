@@ -1,10 +1,10 @@
->   **MSSE 500 - Assignment Submission Document**
+* **MSSE 600 - Assignment Submission Document**
 
-**Name: Chad Conway**
+* **Name: Chad Conway**
 
-**Date: 10 / 17 / 2017**
+* **Date: 10 / 17 / 2017**
 
-**I. Assignment Name: Hangman**
+* **I. Assignment Name: Hangman**
 
 II. Learning Objectives: (here is an example)
 =============================================
